@@ -1,0 +1,10 @@
+/build
+/data
+/plots
+/results
+/logs
+/.vscode
+/.venv
+__pycache__
+*.json
+*.png

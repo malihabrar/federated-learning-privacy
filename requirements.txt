@@ -1,0 +1,12 @@
+torch
+torchvision
+tqdm
+matplotlib
+numpy
+scikit-image
+torchmetrics
+opencv-python-headless
+transformers
+breaching
+Pillow
+brokenaxes
